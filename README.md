@@ -12,9 +12,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **React.js, Redux, Node.js, MaterialUI and Tailwind**
+ 🔭 I've worked on **React.js, Redux, Node.js, MaterialUI and Tailwind**
  
- 🌱 I’m currently learning **TypeScript, best code practices and full responsiveness**
+ 🌱 I’m currently working on **TypeScript, Vue.js, best code practices and full responsiveness**
 
  💬 Ask me about **ChatGPT, Youtube Tutorials, Music 🥁... or anything [here](https://github.com/LauraPastor/LauraPastor/issues)**
  
