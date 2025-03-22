@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Laura+Pastor!;" />
 </h1>
 
-<h3 align="center">A Spanish Front End engineer based in Berlin 🐆</h3>
+<h3 align="center">A Spanish Front End engineer based in Berlin  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
 
 <br/>
 
@@ -58,7 +58,6 @@ ToDo=https://www.youtube.com/watch?v=eHaXw8Bd_ms&t=437s
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+reading!+✌️;+Drop+me+a+message+on+Linkedin!;I'm+always+down+to+collab+😊">
-     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h3>
 
 <br/>
