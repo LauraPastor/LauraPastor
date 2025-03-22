@@ -57,7 +57,8 @@ ToDo=https://www.youtube.com/watch?v=eHaXw8Bd_ms&t=437s
 <hr/> -->
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+reading!+✌️;+Drop+me+a+message+on+Linkedin!;I'm+always+down+to+collab+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+reading!+✌️;+Drop+me+a+message+on+Linkedin!;I'm+always+down+to+collab+😊">
+     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h3>
 
 <br/>
